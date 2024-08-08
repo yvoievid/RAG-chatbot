@@ -1,0 +1,501 @@
+physician_name,physician_id,physician_dob,physician_grad_year,medical_school,salary
+Heather Smith,0,1960-06-01,2013-05-01,Davinci Med,200000
+Kayla Hunter DDS,1,1997-09-01,1985-01-01,Johns Hopkins,220000
+Heather Smith,2,2012-03-01,1980-02-01,David Geffen,180000
+Joseph Johnson,3,1980-04-01,1981-09-01,Johns Hopkins,200000
+Joseph Johnson,4,1982-11-01,1999-06-01,Davinci Med,150000
+Kayla Hunter DDS,5,1990-01-01,1981-12-01,NYU,200000
+Joseph Johnson,6,1954-02-01,1983-08-01,Davinci Med,150000
+Kayla Hunter DDS,7,1963-11-01,1980-02-01,Johns Hopkins,220000
+Jesse Gordon,8,2019-09-01,1989-03-01,NYU,210000
+Jesse Gordon,9,1983-06-01,2014-10-01,Johns Hopkins,150000
+Jesse Gordon,10,1991-07-01,2007-08-01,NYU,210000
+Jesse Gordon,11,2012-02-01,2017-05-01,Davinci Med,210000
+Heather Smith,12,1966-12-01,1992-08-01,David Geffen,150000
+Kayla Hunter DDS,13,1976-06-01,2018-04-01,NYU,220000
+Jesse Gordon,14,1994-02-01,1992-10-01,Mayo Clinic,210000
+Heather Smith,15,2019-09-01,1989-06-01,NYU,220000
+Jesse Gordon,16,1951-06-01,2002-06-01,NYU,150000
+Jason Williams,17,2012-01-01,1992-07-01,David Geffen,210000
+Joseph Johnson,18,2016-03-01,1989-09-01,Davinci Med,210000
+Kayla Hunter DDS,19,2009-05-01,1983-11-01,Mayo Clinic,200000
+Jason Williams,20,1971-10-01,2013-07-01,Mayo Clinic,200000
+Joseph Johnson,21,1961-02-01,1994-12-01,Johns Hopkins,150000
+Joseph Johnson,22,1997-12-01,1991-09-01,Davinci Med,150000
+Joseph Johnson,23,1983-09-01,2005-01-01,David Geffen,210000
+Jesse Gordon,24,1969-04-01,2015-01-01,NYU,150000
+Kayla Hunter DDS,25,2008-09-01,2012-02-01,David Geffen,150000
+Heather Smith,26,1953-08-01,2018-12-01,Davinci Med,210000
+Jason Williams,27,1994-05-01,1998-12-01,Johns Hopkins,200000
+Joseph Johnson,28,1967-06-01,1987-03-01,NYU,150000
+Kayla Hunter DDS,29,2015-06-01,1981-06-01,Mayo Clinic,180000
+Kayla Hunter DDS,30,1985-03-01,1981-05-01,David Geffen,200000
+Heather Smith,31,2003-07-01,1987-08-01,Davinci Med,210000
+Kayla Hunter DDS,32,1968-01-01,2018-12-01,Davinci Med,200000
+Jason Williams,33,1975-12-01,1982-02-01,David Geffen,220000
+Kayla Hunter DDS,34,1995-05-01,2008-10-01,NYU,180000
+Joseph Johnson,35,1959-01-01,2001-02-01,Mayo Clinic,210000
+Jesse Gordon,36,1973-02-01,1992-02-01,Johns Hopkins,210000
+Kayla Hunter DDS,37,2002-03-01,2015-07-01,David Geffen,220000
+Jason Williams,38,2014-07-01,1986-11-01,Davinci Med,220000
+Joseph Johnson,39,1997-02-01,1993-09-01,Davinci Med,150000
+Kayla Hunter DDS,40,1955-03-01,1990-09-01,David Geffen,220000
+Jason Williams,41,1989-07-01,2010-05-01,Davinci Med,220000
+Heather Smith,42,2004-04-01,2005-03-01,Mayo Clinic,200000
+Kayla Hunter DDS,43,1998-04-01,2002-12-01,Mayo Clinic,220000
+Jesse Gordon,44,1966-10-01,2004-12-01,David Geffen,150000
+Joseph Johnson,45,2011-06-01,1989-07-01,Johns Hopkins,210000
+Heather Smith,46,1961-02-01,1994-01-01,Johns Hopkins,180000
+Kayla Hunter DDS,47,2006-12-01,2002-09-01,Mayo Clinic,210000
+Jason Williams,48,1975-03-01,1981-12-01,NYU,180000
+Joseph Johnson,49,1971-09-01,1994-07-01,NYU,220000
+Joseph Johnson,50,1981-04-01,1992-08-01,Davinci Med,220000
+Joseph Johnson,51,1955-11-01,2017-02-01,David Geffen,180000
+Jason Williams,52,2013-01-01,1994-10-01,Mayo Clinic,200000
+Jesse Gordon,53,2008-02-01,2004-10-01,David Geffen,220000
+Heather Smith,54,1953-07-01,1991-05-01,Johns Hopkins,180000
+Jesse Gordon,55,2003-12-01,2006-06-01,NYU,210000
+Heather Smith,56,2015-12-01,2000-10-01,David Geffen,200000
+Kayla Hunter DDS,57,1996-01-01,1985-10-01,David Geffen,150000
+Heather Smith,58,1980-08-01,1984-04-01,Davinci Med,220000
+Joseph Johnson,59,1968-08-01,1980-03-01,Mayo Clinic,210000
+Heather Smith,60,1951-10-01,1989-04-01,NYU,180000
+Jesse Gordon,61,1973-12-01,1988-01-01,NYU,220000
+Jesse Gordon,62,2010-10-01,2014-10-01,Davinci Med,180000
+Joseph Johnson,63,1959-10-01,1996-08-01,Davinci Med,220000
+Jesse Gordon,64,1976-02-01,2018-03-01,Davinci Med,200000
+Jason Williams,65,1988-04-01,2019-04-01,NYU,210000
+Heather Smith,66,1994-01-01,1981-11-01,David Geffen,220000
+Kayla Hunter DDS,67,1986-01-01,2016-10-01,Johns Hopkins,180000
+Jason Williams,68,1985-06-01,2013-06-01,Johns Hopkins,220000
+Jason Williams,69,2015-08-01,2004-05-01,Johns Hopkins,210000
+Kayla Hunter DDS,70,1961-05-01,1981-10-01,Johns Hopkins,150000
+Joseph Johnson,71,1968-01-01,2013-02-01,Johns Hopkins,180000
+Kayla Hunter DDS,72,1982-07-01,2000-10-01,Johns Hopkins,210000
+Jesse Gordon,73,1996-06-01,2018-02-01,Johns Hopkins,180000
+Jason Williams,74,2014-05-01,1988-01-01,Johns Hopkins,200000
+Jason Williams,75,1975-06-01,2016-11-01,Johns Hopkins,150000
+Kayla Hunter DDS,76,1985-12-01,2012-05-01,Johns Hopkins,180000
+Heather Smith,77,1974-04-01,2016-07-01,Davinci Med,150000
+Kayla Hunter DDS,78,1977-12-01,1986-09-01,Davinci Med,210000
+Heather Smith,79,1988-09-01,1993-02-01,Davinci Med,150000
+Kayla Hunter DDS,80,1955-08-01,2001-01-01,Johns Hopkins,180000
+Joseph Johnson,81,2015-07-01,1993-01-01,NYU,210000
+Heather Smith,82,1967-01-01,2001-09-01,David Geffen,180000
+Jason Williams,83,1984-04-01,1989-11-01,David Geffen,220000
+Jason Williams,84,2013-11-01,2000-08-01,Mayo Clinic,210000
+Jason Williams,85,2004-10-01,2014-05-01,NYU,150000
+Heather Smith,86,2008-02-01,1993-11-01,Mayo Clinic,150000
+Heather Smith,87,2013-10-01,2014-06-01,Davinci Med,220000
+Heather Smith,88,1974-08-01,1981-02-01,Mayo Clinic,180000
+Jesse Gordon,89,1982-05-01,1990-10-01,Mayo Clinic,180000
+Jason Williams,90,2007-03-01,2013-01-01,Mayo Clinic,180000
+Jesse Gordon,91,1973-05-01,1981-04-01,Johns Hopkins,180000
+Jesse Gordon,92,1969-11-01,1987-02-01,NYU,210000
+Jesse Gordon,93,2002-01-01,2010-02-01,Davinci Med,180000
+Kayla Hunter DDS,94,1953-03-01,2009-08-01,Johns Hopkins,210000
+Jason Williams,95,1962-04-01,2015-04-01,Davinci Med,210000
+Kayla Hunter DDS,96,1969-04-01,1996-12-01,Johns Hopkins,200000
+Jesse Gordon,97,1982-10-01,1983-02-01,Johns Hopkins,220000
+Jesse Gordon,98,1994-07-01,1999-09-01,NYU,200000
+Jason Williams,99,1951-10-01,1983-05-01,David Geffen,210000
+Heather Smith,100,1983-12-01,1999-01-01,Davinci Med,210000
+Kayla Hunter DDS,101,2002-10-01,2000-11-01,David Geffen,150000
+Jason Williams,102,1995-09-01,1991-04-01,NYU,150000
+Joseph Johnson,103,1969-01-01,2017-02-01,Johns Hopkins,220000
+Heather Smith,104,1978-02-01,1992-11-01,NYU,220000
+Jason Williams,105,1995-04-01,1988-04-01,Mayo Clinic,210000
+Kayla Hunter DDS,106,1996-05-01,2004-02-01,Davinci Med,150000
+Heather Smith,107,1969-12-01,1992-09-01,Mayo Clinic,210000
+Heather Smith,108,1964-11-01,1996-10-01,Mayo Clinic,200000
+Heather Smith,109,2017-01-01,1984-10-01,Johns Hopkins,210000
+Heather Smith,110,1960-09-01,1988-12-01,Johns Hopkins,220000
+Kayla Hunter DDS,111,2014-12-01,2018-06-01,Mayo Clinic,150000
+Jesse Gordon,112,1979-03-01,1997-12-01,David Geffen,180000
+Kayla Hunter DDS,113,1990-11-01,2016-08-01,Mayo Clinic,210000
+Jesse Gordon,114,1951-12-01,1991-11-01,Mayo Clinic,210000
+Joseph Johnson,115,1972-04-01,1983-04-01,David Geffen,220000
+Heather Smith,116,1951-05-01,2008-12-01,David Geffen,180000
+Jason Williams,117,1950-05-01,1981-03-01,NYU,150000
+Joseph Johnson,118,1956-12-01,1981-09-01,Johns Hopkins,210000
+Heather Smith,119,1980-10-01,1993-06-01,Mayo Clinic,210000
+Kayla Hunter DDS,120,2000-08-01,1989-03-01,Mayo Clinic,210000
+Jason Williams,121,1974-07-01,2011-07-01,Davinci Med,150000
+Joseph Johnson,122,1976-03-01,1992-03-01,Mayo Clinic,180000
+Joseph Johnson,123,1965-05-01,2010-08-01,David Geffen,210000
+Heather Smith,124,2014-03-01,2003-11-01,Davinci Med,180000
+Heather Smith,125,1975-10-01,1991-07-01,NYU,220000
+Jesse Gordon,126,1963-10-01,1998-08-01,Davinci Med,180000
+Joseph Johnson,127,1971-10-01,1990-09-01,NYU,220000
+Joseph Johnson,128,2002-04-01,2001-10-01,Davinci Med,200000
+Jesse Gordon,129,2001-04-01,2018-09-01,NYU,210000
+Kayla Hunter DDS,130,1998-01-01,1982-10-01,Johns Hopkins,180000
+Kayla Hunter DDS,131,2004-02-01,2010-09-01,Davinci Med,220000
+Heather Smith,132,2003-03-01,2014-08-01,David Geffen,200000
+Jesse Gordon,133,2017-11-01,2014-10-01,NYU,220000
+Heather Smith,134,1966-08-01,1997-07-01,David Geffen,150000
+Joseph Johnson,135,1992-05-01,1986-03-01,Mayo Clinic,180000
+Kayla Hunter DDS,136,2006-02-01,1999-01-01,Mayo Clinic,180000
+Joseph Johnson,137,1988-01-01,1991-12-01,NYU,150000
+Heather Smith,138,1954-06-01,2003-11-01,NYU,200000
+Heather Smith,139,2002-08-01,1984-02-01,NYU,210000
+Kayla Hunter DDS,140,1967-12-01,2003-09-01,NYU,180000
+Heather Smith,141,2017-10-01,2005-03-01,Johns Hopkins,210000
+Jason Williams,142,1958-12-01,2008-02-01,Mayo Clinic,180000
+Jesse Gordon,143,1984-03-01,2006-04-01,Davinci Med,180000
+Jason Williams,144,1978-06-01,2014-12-01,Johns Hopkins,210000
+Kayla Hunter DDS,145,2010-01-01,2015-10-01,NYU,210000
+Jason Williams,146,1950-03-01,1982-11-01,Mayo Clinic,220000
+Jason Williams,147,1980-08-01,2003-02-01,Davinci Med,150000
+Kayla Hunter DDS,148,1966-06-01,1982-06-01,David Geffen,210000
+Kayla Hunter DDS,149,1967-06-01,1993-06-01,NYU,210000
+Kayla Hunter DDS,150,1979-10-01,1992-08-01,Johns Hopkins,210000
+Jason Williams,151,1989-03-01,2000-08-01,David Geffen,180000
+Jesse Gordon,152,2006-12-01,1996-07-01,Davinci Med,150000
+Jesse Gordon,153,2013-04-01,2010-06-01,David Geffen,220000
+Kayla Hunter DDS,154,1981-01-01,1983-11-01,Johns Hopkins,210000
+Jason Williams,155,1950-03-01,2002-11-01,David Geffen,180000
+Heather Smith,156,1964-07-01,1991-02-01,Mayo Clinic,200000
+Jesse Gordon,157,1970-10-01,1984-10-01,NYU,220000
+Jesse Gordon,158,1954-09-01,1985-02-01,NYU,150000
+Jesse Gordon,159,1968-04-01,2015-07-01,Davinci Med,150000
+Heather Smith,160,1954-03-01,1987-09-01,Johns Hopkins,180000
+Heather Smith,161,1992-12-01,1991-09-01,Johns Hopkins,210000
+Jesse Gordon,162,2013-05-01,1991-01-01,Davinci Med,200000
+Jason Williams,163,1959-03-01,1997-12-01,Davinci Med,200000
+Joseph Johnson,164,1957-12-01,1987-01-01,Johns Hopkins,180000
+Jesse Gordon,165,1984-12-01,2003-04-01,Mayo Clinic,150000
+Kayla Hunter DDS,166,1984-12-01,1981-02-01,NYU,200000
+Joseph Johnson,167,2016-04-01,1990-04-01,Mayo Clinic,210000
+Joseph Johnson,168,2012-05-01,1992-06-01,NYU,180000
+Jason Williams,169,2008-06-01,2012-12-01,David Geffen,150000
+Jason Williams,170,2013-10-01,1982-05-01,Davinci Med,220000
+Jason Williams,171,1969-03-01,1998-11-01,Mayo Clinic,210000
+Joseph Johnson,172,2008-04-01,1992-08-01,Mayo Clinic,210000
+Joseph Johnson,173,1956-01-01,1985-02-01,Mayo Clinic,210000
+Joseph Johnson,174,2019-03-01,2013-11-01,Davinci Med,200000
+Kayla Hunter DDS,175,1967-02-01,1980-02-01,David Geffen,200000
+Joseph Johnson,176,1999-01-01,2016-01-01,David Geffen,210000
+Kayla Hunter DDS,177,1994-01-01,1990-02-01,Davinci Med,200000
+Joseph Johnson,178,1954-11-01,2003-08-01,Davinci Med,200000
+Jason Williams,179,1954-01-01,2006-10-01,Johns Hopkins,200000
+Jason Williams,180,1974-09-01,1987-07-01,Mayo Clinic,200000
+Joseph Johnson,181,2000-02-01,1995-04-01,Johns Hopkins,220000
+Joseph Johnson,182,1976-12-01,2018-12-01,Davinci Med,200000
+Jesse Gordon,183,1953-09-01,1994-02-01,David Geffen,200000
+Kayla Hunter DDS,184,1991-08-01,2006-05-01,Johns Hopkins,210000
+Kayla Hunter DDS,185,1963-06-01,1981-12-01,NYU,220000
+Joseph Johnson,186,1985-08-01,2019-02-01,Mayo Clinic,150000
+Jason Williams,187,2012-10-01,2008-05-01,NYU,150000
+Jesse Gordon,188,1980-05-01,2004-11-01,David Geffen,210000
+Kayla Hunter DDS,189,1961-01-01,2008-08-01,Davinci Med,220000
+Kayla Hunter DDS,190,1996-03-01,1994-04-01,NYU,180000
+Joseph Johnson,191,2001-12-01,2010-01-01,Mayo Clinic,200000
+Heather Smith,192,1996-01-01,1991-07-01,David Geffen,150000
+Jason Williams,193,1963-09-01,2009-12-01,Davinci Med,220000
+Kayla Hunter DDS,194,1994-05-01,1999-03-01,Mayo Clinic,180000
+Joseph Johnson,195,1973-05-01,1986-05-01,NYU,200000
+Joseph Johnson,196,1993-04-01,2012-10-01,Johns Hopkins,200000
+Kayla Hunter DDS,197,1973-04-01,1993-06-01,NYU,210000
+Heather Smith,198,1953-05-01,2016-09-01,NYU,210000
+Jason Williams,199,1967-03-01,2018-12-01,NYU,180000
+Kayla Hunter DDS,200,1958-03-01,1999-05-01,Johns Hopkins,200000
+Jesse Gordon,201,1973-12-01,1986-06-01,Mayo Clinic,150000
+Joseph Johnson,202,1951-06-01,1982-03-01,Johns Hopkins,220000
+Heather Smith,203,1973-10-01,2007-03-01,Johns Hopkins,220000
+Kayla Hunter DDS,204,1957-05-01,2015-04-01,Davinci Med,220000
+Jesse Gordon,205,1954-10-01,1984-07-01,David Geffen,180000
+Jesse Gordon,206,2009-11-01,2010-02-01,NYU,200000
+Joseph Johnson,207,2017-03-01,1985-06-01,NYU,150000
+Kayla Hunter DDS,208,1989-11-01,1991-08-01,David Geffen,200000
+Heather Smith,209,1978-02-01,1981-06-01,David Geffen,180000
+Jason Williams,210,2004-10-01,2004-11-01,David Geffen,150000
+Heather Smith,211,1951-09-01,1981-04-01,David Geffen,180000
+Joseph Johnson,212,1970-10-01,1997-03-01,Mayo Clinic,220000
+Heather Smith,213,1996-11-01,1999-03-01,David Geffen,150000
+Kayla Hunter DDS,214,2011-11-01,1989-07-01,Davinci Med,180000
+Jesse Gordon,215,1963-10-01,2003-06-01,Mayo Clinic,220000
+Joseph Johnson,216,2011-05-01,2004-10-01,David Geffen,220000
+Joseph Johnson,217,2015-09-01,2012-07-01,Johns Hopkins,180000
+Jesse Gordon,218,1952-01-01,1994-02-01,NYU,220000
+Kayla Hunter DDS,219,1968-09-01,2012-11-01,Mayo Clinic,220000
+Kayla Hunter DDS,220,1996-10-01,2011-10-01,Davinci Med,180000
+Heather Smith,221,1970-01-01,1983-06-01,David Geffen,220000
+Joseph Johnson,222,2002-11-01,2002-05-01,Johns Hopkins,210000
+Jesse Gordon,223,1971-05-01,2004-10-01,NYU,210000
+Heather Smith,224,2001-02-01,1984-01-01,NYU,150000
+Kayla Hunter DDS,225,1973-11-01,2001-02-01,David Geffen,200000
+Jesse Gordon,226,1989-07-01,1990-11-01,David Geffen,200000
+Joseph Johnson,227,1980-07-01,2002-03-01,Mayo Clinic,210000
+Heather Smith,228,1980-02-01,2007-06-01,NYU,220000
+Joseph Johnson,229,2001-02-01,2017-01-01,Mayo Clinic,220000
+Heather Smith,230,1983-02-01,1991-04-01,Davinci Med,150000
+Heather Smith,231,1974-02-01,2003-09-01,NYU,180000
+Kayla Hunter DDS,232,1973-05-01,1998-05-01,Davinci Med,220000
+Jason Williams,233,1992-04-01,2016-05-01,Johns Hopkins,210000
+Jesse Gordon,234,1968-11-01,1996-07-01,Mayo Clinic,200000
+Jesse Gordon,235,1963-02-01,2000-09-01,Johns Hopkins,150000
+Heather Smith,236,1962-05-01,2006-08-01,Mayo Clinic,210000
+Jason Williams,237,1954-05-01,2016-09-01,NYU,220000
+Jason Williams,238,2006-01-01,2017-03-01,Mayo Clinic,220000
+Kayla Hunter DDS,239,1972-05-01,2001-02-01,NYU,210000
+Heather Smith,240,1999-06-01,2017-02-01,NYU,220000
+Jason Williams,241,1982-02-01,1981-06-01,NYU,180000
+Jesse Gordon,242,2006-10-01,2009-02-01,Davinci Med,210000
+Jesse Gordon,243,2010-04-01,2001-05-01,David Geffen,220000
+Jesse Gordon,244,1980-03-01,1981-01-01,NYU,150000
+Kayla Hunter DDS,245,2011-02-01,1995-04-01,Davinci Med,210000
+Heather Smith,246,2003-01-01,1990-01-01,Davinci Med,200000
+Jesse Gordon,247,1964-08-01,1980-10-01,David Geffen,150000
+Jason Williams,248,1952-04-01,1989-06-01,Johns Hopkins,180000
+Kayla Hunter DDS,249,1970-08-01,2011-10-01,David Geffen,200000
+Jesse Gordon,250,1986-05-01,2012-08-01,Mayo Clinic,180000
+Kayla Hunter DDS,251,2006-04-01,2001-08-01,David Geffen,220000
+Heather Smith,252,2012-07-01,2010-05-01,NYU,210000
+Heather Smith,253,1958-07-01,2016-11-01,David Geffen,150000
+Joseph Johnson,254,1956-09-01,1990-12-01,David Geffen,150000
+Jason Williams,255,1970-01-01,2015-01-01,Mayo Clinic,210000
+Jason Williams,256,1965-02-01,2009-07-01,Johns Hopkins,200000
+Heather Smith,257,2019-11-01,1995-06-01,Davinci Med,210000
+Joseph Johnson,258,2016-08-01,1983-01-01,Davinci Med,210000
+Kayla Hunter DDS,259,1950-06-01,2002-07-01,Johns Hopkins,180000
+Heather Smith,260,1964-03-01,2017-09-01,Johns Hopkins,150000
+Jesse Gordon,261,2006-11-01,1989-07-01,David Geffen,180000
+Joseph Johnson,262,1990-04-01,1987-07-01,Mayo Clinic,150000
+Jesse Gordon,263,1961-06-01,2009-11-01,Davinci Med,210000
+Heather Smith,264,1999-04-01,2015-10-01,NYU,210000
+Jesse Gordon,265,1973-01-01,2004-06-01,Johns Hopkins,150000
+Jesse Gordon,266,2018-02-01,1989-09-01,NYU,210000
+Joseph Johnson,267,1990-08-01,1991-12-01,David Geffen,200000
+Joseph Johnson,268,1954-12-01,1990-02-01,Mayo Clinic,150000
+Joseph Johnson,269,1964-02-01,2007-07-01,Mayo Clinic,180000
+Joseph Johnson,270,1973-09-01,2005-12-01,Johns Hopkins,210000
+Heather Smith,271,1976-08-01,2001-12-01,NYU,210000
+Joseph Johnson,272,1998-09-01,1981-05-01,Johns Hopkins,150000
+Heather Smith,273,2000-05-01,2015-08-01,Mayo Clinic,180000
+Heather Smith,274,1957-10-01,1987-10-01,NYU,150000
+Jason Williams,275,1952-10-01,2017-03-01,Johns Hopkins,220000
+Heather Smith,276,2003-03-01,2015-03-01,Mayo Clinic,220000
+Jason Williams,277,1985-01-01,2013-10-01,Mayo Clinic,210000
+Heather Smith,278,2017-10-01,1984-10-01,Mayo Clinic,210000
+Kayla Hunter DDS,279,1986-06-01,1990-10-01,Davinci Med,150000
+Jesse Gordon,280,1975-04-01,1982-02-01,Johns Hopkins,150000
+Joseph Johnson,281,1994-10-01,2006-08-01,NYU,150000
+Jesse Gordon,282,2006-08-01,1985-05-01,Davinci Med,200000
+Kayla Hunter DDS,283,1975-02-01,2002-11-01,Mayo Clinic,210000
+Kayla Hunter DDS,284,2001-06-01,2018-12-01,Davinci Med,150000
+Kayla Hunter DDS,285,2015-10-01,1996-01-01,NYU,200000
+Joseph Johnson,286,2001-07-01,2002-08-01,Johns Hopkins,180000
+Joseph Johnson,287,1985-10-01,1983-01-01,Davinci Med,150000
+Jesse Gordon,288,1990-11-01,2009-05-01,NYU,150000
+Jason Williams,289,1983-03-01,1984-03-01,David Geffen,210000
+Jesse Gordon,290,1994-06-01,1995-09-01,Johns Hopkins,220000
+Joseph Johnson,291,1982-06-01,1981-08-01,Johns Hopkins,180000
+Heather Smith,292,1952-06-01,1996-07-01,Mayo Clinic,180000
+Jesse Gordon,293,1958-08-01,2004-02-01,NYU,180000
+Heather Smith,294,1980-02-01,2006-10-01,Mayo Clinic,150000
+Joseph Johnson,295,1971-11-01,1988-10-01,Johns Hopkins,210000
+Jason Williams,296,1976-04-01,2004-12-01,Johns Hopkins,210000
+Jesse Gordon,297,1957-07-01,2002-11-01,David Geffen,180000
+Kayla Hunter DDS,298,1973-02-01,1980-11-01,David Geffen,220000
+Joseph Johnson,299,1984-01-01,1997-08-01,Davinci Med,200000
+Joseph Johnson,300,1969-07-01,1988-07-01,NYU,180000
+Joseph Johnson,301,2008-09-01,2015-01-01,David Geffen,150000
+Kayla Hunter DDS,302,2010-10-01,2017-08-01,Mayo Clinic,200000
+Heather Smith,303,1965-08-01,1992-02-01,David Geffen,150000
+Joseph Johnson,304,2018-01-01,2016-08-01,Davinci Med,210000
+Kayla Hunter DDS,305,2007-12-01,2008-07-01,Johns Hopkins,150000
+Jesse Gordon,306,1983-11-01,1998-07-01,Davinci Med,150000
+Joseph Johnson,307,1951-07-01,2005-01-01,Johns Hopkins,200000
+Jesse Gordon,308,1993-09-01,2003-10-01,Johns Hopkins,200000
+Joseph Johnson,309,1997-01-01,1991-12-01,David Geffen,220000
+Joseph Johnson,310,1958-07-01,2010-06-01,Davinci Med,150000
+Joseph Johnson,311,1992-06-01,2013-03-01,Mayo Clinic,150000
+Jason Williams,312,1954-09-01,2004-10-01,David Geffen,210000
+Heather Smith,313,1980-07-01,2006-09-01,David Geffen,200000
+Jason Williams,314,1984-01-01,2015-03-01,David Geffen,220000
+Kayla Hunter DDS,315,1973-10-01,1989-01-01,NYU,200000
+Jason Williams,316,2019-09-01,1989-02-01,Johns Hopkins,150000
+Heather Smith,317,1956-06-01,1987-09-01,Mayo Clinic,200000
+Heather Smith,318,1998-09-01,2000-03-01,Mayo Clinic,210000
+Heather Smith,319,2000-02-01,2015-11-01,David Geffen,150000
+Kayla Hunter DDS,320,1988-07-01,1991-09-01,NYU,210000
+Jesse Gordon,321,1986-08-01,2005-06-01,David Geffen,200000
+Heather Smith,322,2018-09-01,2000-08-01,NYU,210000
+Kayla Hunter DDS,323,1952-09-01,1993-06-01,David Geffen,210000
+Jason Williams,324,2015-09-01,2003-11-01,Johns Hopkins,200000
+Kayla Hunter DDS,325,1966-08-01,1986-05-01,NYU,150000
+Kayla Hunter DDS,326,1951-02-01,2002-10-01,David Geffen,200000
+Kayla Hunter DDS,327,2000-08-01,1980-10-01,Johns Hopkins,210000
+Jason Williams,328,1954-04-01,2015-10-01,NYU,220000
+Kayla Hunter DDS,329,2002-02-01,2009-11-01,NYU,220000
+Jesse Gordon,330,1987-05-01,1981-04-01,NYU,220000
+Jason Williams,331,1962-04-01,1997-01-01,NYU,220000
+Jason Williams,332,2003-03-01,1988-04-01,David Geffen,210000
+Heather Smith,333,2003-08-01,1983-05-01,Mayo Clinic,180000
+Heather Smith,334,1975-12-01,1990-06-01,NYU,200000
+Jesse Gordon,335,1992-02-01,2011-07-01,Mayo Clinic,210000
+Jesse Gordon,336,2005-01-01,1983-11-01,David Geffen,150000
+Jesse Gordon,337,1956-12-01,2001-06-01,David Geffen,200000
+Joseph Johnson,338,1977-06-01,1981-02-01,Johns Hopkins,220000
+Jesse Gordon,339,1959-09-01,1994-05-01,NYU,180000
+Jesse Gordon,340,2014-03-01,1997-04-01,Mayo Clinic,150000
+Heather Smith,341,1995-11-01,1983-05-01,David Geffen,210000
+Kayla Hunter DDS,342,1981-03-01,1999-07-01,Davinci Med,200000
+Heather Smith,343,1961-11-01,2011-11-01,Johns Hopkins,150000
+Heather Smith,344,1956-12-01,2005-04-01,NYU,200000
+Heather Smith,345,1984-11-01,1997-02-01,Mayo Clinic,200000
+Kayla Hunter DDS,346,1957-03-01,2007-10-01,Davinci Med,150000
+Kayla Hunter DDS,347,2015-03-01,2016-12-01,NYU,220000
+Heather Smith,348,1979-04-01,2017-08-01,Davinci Med,220000
+Jesse Gordon,349,1981-02-01,2018-09-01,Johns Hopkins,180000
+Jason Williams,350,2002-10-01,1994-09-01,David Geffen,180000
+Heather Smith,351,2017-12-01,1990-04-01,NYU,180000
+Jason Williams,352,2001-06-01,1983-03-01,David Geffen,180000
+Kayla Hunter DDS,353,1953-06-01,1994-03-01,Davinci Med,150000
+Kayla Hunter DDS,354,1955-07-01,2005-04-01,NYU,210000
+Jason Williams,355,1956-08-01,1990-12-01,Johns Hopkins,210000
+Joseph Johnson,356,2004-08-01,2016-11-01,Johns Hopkins,210000
+Jesse Gordon,357,1993-06-01,2008-10-01,NYU,200000
+Jason Williams,358,1991-07-01,2004-04-01,NYU,200000
+Jesse Gordon,359,2012-12-01,1984-08-01,NYU,210000
+Kayla Hunter DDS,360,2016-04-01,2002-06-01,Johns Hopkins,220000
+Joseph Johnson,361,2019-07-01,2006-04-01,David Geffen,150000
+Heather Smith,362,1993-11-01,1980-03-01,NYU,180000
+Jesse Gordon,363,2018-05-01,2000-01-01,Johns Hopkins,180000
+Jason Williams,364,1951-04-01,2016-06-01,NYU,180000
+Joseph Johnson,365,1956-01-01,1992-08-01,Davinci Med,200000
+Heather Smith,366,1971-06-01,2009-02-01,Mayo Clinic,210000
+Jason Williams,367,2012-03-01,2018-01-01,NYU,210000
+Kayla Hunter DDS,368,1997-05-01,2002-05-01,NYU,150000
+Jason Williams,369,2006-02-01,2014-04-01,David Geffen,210000
+Kayla Hunter DDS,370,1975-07-01,1994-06-01,David Geffen,150000
+Joseph Johnson,371,1990-06-01,1993-04-01,Davinci Med,180000
+Jason Williams,372,1955-03-01,1990-04-01,Davinci Med,150000
+Jesse Gordon,373,1995-08-01,1988-09-01,Johns Hopkins,220000
+Heather Smith,374,1957-02-01,2003-02-01,David Geffen,150000
+Heather Smith,375,2006-03-01,2009-11-01,Johns Hopkins,150000
+Jesse Gordon,376,1953-11-01,1981-03-01,Mayo Clinic,180000
+Jesse Gordon,377,2011-08-01,1985-09-01,Johns Hopkins,210000
+Jason Williams,378,1988-07-01,1986-09-01,David Geffen,180000
+Kayla Hunter DDS,379,2017-03-01,2016-04-01,Johns Hopkins,210000
+Kayla Hunter DDS,380,1967-03-01,2018-09-01,David Geffen,210000
+Kayla Hunter DDS,381,2015-03-01,1982-11-01,David Geffen,150000
+Kayla Hunter DDS,382,1992-04-01,2004-10-01,NYU,150000
+Jesse Gordon,383,2015-01-01,1987-06-01,Davinci Med,180000
+Jason Williams,384,2014-03-01,2002-03-01,Davinci Med,180000
+Jesse Gordon,385,1983-07-01,1994-06-01,David Geffen,220000
+Jason Williams,386,2006-01-01,1992-10-01,Davinci Med,180000
+Heather Smith,387,1979-08-01,2005-08-01,David Geffen,210000
+Heather Smith,388,1969-07-01,1988-12-01,Davinci Med,210000
+Jason Williams,389,2007-08-01,1985-04-01,David Geffen,220000
+Joseph Johnson,390,1955-12-01,2004-06-01,Mayo Clinic,220000
+Jason Williams,391,1956-10-01,2004-02-01,Mayo Clinic,180000
+Heather Smith,392,1977-01-01,1984-07-01,Johns Hopkins,220000
+Jason Williams,393,1951-06-01,2010-05-01,David Geffen,220000
+Jason Williams,394,2003-11-01,2008-05-01,Davinci Med,180000
+Joseph Johnson,395,1989-10-01,1991-10-01,Mayo Clinic,180000
+Kayla Hunter DDS,396,1987-12-01,2019-12-01,Mayo Clinic,210000
+Joseph Johnson,397,2002-04-01,1980-09-01,David Geffen,220000
+Jesse Gordon,398,2003-06-01,2009-06-01,Davinci Med,220000
+Kayla Hunter DDS,399,1982-10-01,1982-07-01,Mayo Clinic,200000
+Heather Smith,400,1985-01-01,2017-11-01,David Geffen,200000
+Jason Williams,401,2008-01-01,2010-06-01,Davinci Med,180000
+Heather Smith,402,1966-05-01,1996-08-01,Mayo Clinic,210000
+Jason Williams,403,1986-05-01,2002-07-01,David Geffen,200000
+Kayla Hunter DDS,404,1963-08-01,1983-08-01,Mayo Clinic,150000
+Jason Williams,405,2004-04-01,1980-03-01,Johns Hopkins,210000
+Joseph Johnson,406,1998-08-01,2017-04-01,NYU,200000
+Kayla Hunter DDS,407,1960-09-01,2006-05-01,Mayo Clinic,210000
+Joseph Johnson,408,1971-02-01,1994-11-01,David Geffen,200000
+Joseph Johnson,409,1990-11-01,1980-11-01,Johns Hopkins,150000
+Joseph Johnson,410,1994-02-01,2001-09-01,NYU,210000
+Kayla Hunter DDS,411,1955-04-01,1987-07-01,NYU,150000
+Jesse Gordon,412,1975-12-01,1997-12-01,Mayo Clinic,200000
+Jesse Gordon,413,2001-08-01,2019-07-01,Davinci Med,150000
+Kayla Hunter DDS,414,1951-02-01,1993-06-01,Mayo Clinic,210000
+Kayla Hunter DDS,415,2015-12-01,2009-07-01,David Geffen,180000
+Kayla Hunter DDS,416,1985-04-01,1989-12-01,Mayo Clinic,210000
+Kayla Hunter DDS,417,1996-01-01,2001-01-01,NYU,200000
+Joseph Johnson,418,1990-07-01,1992-10-01,NYU,200000
+Jason Williams,419,2014-01-01,1981-12-01,Davinci Med,220000
+Joseph Johnson,420,1950-09-01,1994-07-01,Johns Hopkins,180000
+Jason Williams,421,1995-07-01,1981-05-01,Mayo Clinic,150000
+Jason Williams,422,1988-06-01,2012-12-01,Mayo Clinic,150000
+Joseph Johnson,423,1978-02-01,1981-11-01,NYU,220000
+Jason Williams,424,1977-12-01,1989-03-01,David Geffen,150000
+Kayla Hunter DDS,425,1957-06-01,2007-08-01,Johns Hopkins,180000
+Jason Williams,426,1989-04-01,1992-03-01,David Geffen,150000
+Jesse Gordon,427,2010-01-01,2017-01-01,Davinci Med,200000
+Kayla Hunter DDS,428,1965-03-01,1986-12-01,Mayo Clinic,200000
+Joseph Johnson,429,2012-04-01,1986-08-01,NYU,210000
+Jason Williams,430,1993-01-01,1997-02-01,Davinci Med,150000
+Heather Smith,431,1992-05-01,1982-11-01,David Geffen,150000
+Heather Smith,432,1977-11-01,2016-08-01,Mayo Clinic,210000
+Jesse Gordon,433,1974-03-01,2004-02-01,Davinci Med,200000
+Joseph Johnson,434,1977-04-01,2006-02-01,Mayo Clinic,150000
+Jason Williams,435,2005-02-01,1987-01-01,Mayo Clinic,180000
+Jason Williams,436,1992-11-01,2004-01-01,Johns Hopkins,150000
+Heather Smith,437,1959-06-01,1986-12-01,Davinci Med,150000
+Joseph Johnson,438,2010-05-01,2008-02-01,Mayo Clinic,180000
+Heather Smith,439,1951-09-01,1981-06-01,Mayo Clinic,200000
+Jesse Gordon,440,2005-04-01,2014-01-01,Johns Hopkins,200000
+Heather Smith,441,2017-01-01,2004-09-01,Johns Hopkins,180000
+Jesse Gordon,442,2002-07-01,2001-08-01,David Geffen,210000
+Heather Smith,443,1969-11-01,2015-12-01,Davinci Med,180000
+Heather Smith,444,1950-09-01,1998-09-01,Mayo Clinic,200000
+Kayla Hunter DDS,445,1998-12-01,1989-06-01,David Geffen,200000
+Heather Smith,446,1996-11-01,2014-07-01,Davinci Med,210000
+Joseph Johnson,447,1975-09-01,1984-01-01,Davinci Med,180000
+Jason Williams,448,1962-06-01,1997-07-01,NYU,210000
+Heather Smith,449,1986-08-01,1999-05-01,Mayo Clinic,180000
+Kayla Hunter DDS,450,1968-08-01,2002-10-01,Mayo Clinic,200000
+Jesse Gordon,451,1953-11-01,2008-03-01,David Geffen,180000
+Jason Williams,452,1991-01-01,2018-10-01,Mayo Clinic,200000
+Joseph Johnson,453,2008-03-01,2011-04-01,David Geffen,220000
+Jesse Gordon,454,1951-11-01,2004-04-01,Davinci Med,210000
+Jason Williams,455,2003-06-01,2002-05-01,Johns Hopkins,150000
+Jason Williams,456,1991-05-01,1987-10-01,David Geffen,220000
+Heather Smith,457,1981-03-01,2004-06-01,Johns Hopkins,150000
+Kayla Hunter DDS,458,2002-07-01,2009-06-01,NYU,150000
+Jason Williams,459,1980-11-01,1995-05-01,NYU,150000
+Jason Williams,460,1998-12-01,1997-02-01,NYU,150000
+Jesse Gordon,461,1951-06-01,1989-02-01,NYU,180000
+Jesse Gordon,462,1962-01-01,2006-12-01,Davinci Med,150000
+Kayla Hunter DDS,463,1962-02-01,2014-01-01,NYU,180000
+Joseph Johnson,464,1995-09-01,1992-08-01,Mayo Clinic,220000
+Heather Smith,465,2005-06-01,2014-07-01,Mayo Clinic,210000
+Heather Smith,466,2019-06-01,1999-01-01,Mayo Clinic,200000
+Jesse Gordon,467,1969-04-01,2007-12-01,Mayo Clinic,200000
+Jesse Gordon,468,2015-08-01,2009-12-01,David Geffen,200000
+Joseph Johnson,469,1980-02-01,1990-05-01,Johns Hopkins,180000
+Heather Smith,470,1970-09-01,2003-06-01,Mayo Clinic,150000
+Joseph Johnson,471,1998-07-01,2017-08-01,David Geffen,210000
+Jesse Gordon,472,1974-12-01,1996-04-01,Johns Hopkins,210000
+Joseph Johnson,473,1952-10-01,1987-08-01,Mayo Clinic,210000
+Jason Williams,474,2015-08-01,2011-03-01,Mayo Clinic,200000
+Jesse Gordon,475,1988-11-01,1997-01-01,NYU,200000
+Joseph Johnson,476,1974-12-01,1980-05-01,David Geffen,210000
+Jason Williams,477,1999-11-01,1980-07-01,Johns Hopkins,220000
+Joseph Johnson,478,2016-07-01,1994-04-01,Davinci Med,210000
+Jason Williams,479,1995-04-01,1998-01-01,Johns Hopkins,210000
+Joseph Johnson,480,2004-03-01,2009-02-01,David Geffen,210000
+Joseph Johnson,481,2016-12-01,1986-08-01,Davinci Med,150000
+Jesse Gordon,482,1956-06-01,2018-10-01,Davinci Med,180000
+Kayla Hunter DDS,483,2014-04-01,1989-02-01,Mayo Clinic,200000
+Jesse Gordon,484,1961-12-01,2000-08-01,David Geffen,180000
+Heather Smith,485,1950-12-01,2008-01-01,NYU,180000
+Kayla Hunter DDS,486,1973-01-01,2006-09-01,Mayo Clinic,200000
+Jesse Gordon,487,1984-04-01,2003-06-01,David Geffen,200000
+Jason Williams,488,2009-03-01,2003-02-01,NYU,210000
+Joseph Johnson,489,1952-03-01,1989-07-01,Johns Hopkins,150000
+Jesse Gordon,490,1991-07-01,1996-02-01,Mayo Clinic,200000
+Heather Smith,491,2018-08-01,1993-01-01,Johns Hopkins,220000
+Joseph Johnson,492,1967-05-01,2005-11-01,Davinci Med,180000
+Kayla Hunter DDS,493,1998-08-01,1980-12-01,Johns Hopkins,150000
+Heather Smith,494,1996-01-01,2000-04-01,Johns Hopkins,150000
+Heather Smith,495,1978-09-01,1997-04-01,NYU,200000
+Kayla Hunter DDS,496,1982-10-01,2013-09-01,Mayo Clinic,200000
+Joseph Johnson,497,2009-02-01,1999-03-01,NYU,180000
+Joseph Johnson,498,1987-08-01,1989-02-01,David Geffen,200000
+Jason Williams,499,1991-10-01,2017-03-01,Mayo Clinic,210000
